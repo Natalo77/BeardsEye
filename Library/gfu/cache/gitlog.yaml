@@ -1,0 +1,461 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-03-30T14:18:02.8516121+01:00
+  lastVerifiedAtString: 2018-03-30T14:18:02.8516121+01:00
+  initializedAtString: 2018-03-30T13:03:15.6869609+01:00
+  log:
+  - commitID: 421f7dbedbb86d07886ef66f56cc8ecfaba98aa4
+    mergeA: 
+    mergeB: 
+    authorName: Luke-DJ
+    authorEmail: u1752044@unimail.hud.ac.uk
+    commitEmail: u1752044@unimail.hud.ac.uk
+    commitName: Luke-DJ
+    summary: Another commit
+    description: "Another commit\r\n\r\n2"
+    timeString: 2018-01-26T15:52:09.0000000+00:00
+    commitTimeString: 2018-01-26T15:52:09.0000000+00:00
+    changes:
+    - path: Assets\Scenes\Main.unity
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Main.unity
+      projectPath: Assets\Scenes\Main.unity
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 51a3c4dd65149a892ae0db0a11e528d997eba4db
+    mergeA: 
+    mergeB: 
+    authorName: Luke-DJ
+    authorEmail: u1752044@unimail.hud.ac.uk
+    commitEmail: u1752044@unimail.hud.ac.uk
+    commitName: Luke-DJ
+    summary: Initial commit
+    description: "Initial commit\r\n\r\nYay"
+    timeString: 2018-01-26T13:58:54.0000000+00:00
+    commitTimeString: 2018-01-26T13:58:54.0000000+00:00
+    changes:
+    - path: Assets\Animation.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Animation.meta
+      projectPath: Assets\Animation.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\PhysicsMaterials.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\PhysicsMaterials.meta
+      projectPath: Assets\PhysicsMaterials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Wood (Ceiling).prefab
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Ceiling).prefab
+      projectPath: Assets\Prefabs\Wood (Ceiling).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Wood (Ceiling).prefab.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Ceiling).prefab.meta
+      projectPath: Assets\Prefabs\Wood (Ceiling).prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Wood (Left wall).prefab
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Left wall).prefab
+      projectPath: Assets\Prefabs\Wood (Left wall).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Wood (Left wall).prefab.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Left wall).prefab.meta
+      projectPath: Assets\Prefabs\Wood (Left wall).prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Wood (Right wall).prefab
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Right wall).prefab
+      projectPath: Assets\Prefabs\Wood (Right wall).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Wood (Right wall).prefab.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Right wall).prefab.meta
+      projectPath: Assets\Prefabs\Wood (Right wall).prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Main.unity
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Main.unity
+      projectPath: Assets\Scenes\Main.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Main.unity.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Main.unity.meta
+      projectPath: Assets\Scenes\Main.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Archive.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive.meta
+      projectPath: Assets\Scripts\Archive.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Archive\DropletCollisionScriptOld.cs
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\DropletCollisionScriptOld.cs
+      projectPath: Assets\Scripts\Archive\DropletCollisionScriptOld.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Archive\DropletCollisionScriptOld.cs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\DropletCollisionScriptOld.cs.meta
+      projectPath: Assets\Scripts\Archive\DropletCollisionScriptOld.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CameraShakeScript.cs
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CameraShakeScript.cs
+      projectPath: Assets\Scripts\CameraShakeScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CameraShakeScript.cs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CameraShakeScript.cs.meta
+      projectPath: Assets\Scripts\CameraShakeScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CustomPlayerController.cs
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CustomPlayerController.cs
+      projectPath: Assets\Scripts\CustomPlayerController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CustomPlayerController.cs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CustomPlayerController.cs.meta
+      projectPath: Assets\Scripts\CustomPlayerController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\LeakManagerScript.cs
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakManagerScript.cs
+      projectPath: Assets\Scripts\LeakManagerScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\LeakManagerScript.cs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakManagerScript.cs.meta
+      projectPath: Assets\Scripts\LeakManagerScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\LeakScript.cs
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakScript.cs
+      projectPath: Assets\Scripts\LeakScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\LeakScript.cs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakScript.cs.meta
+      projectPath: Assets\Scripts\LeakScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\RandomNumberScript.cs
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\RandomNumberScript.cs
+      projectPath: Assets\Scripts\RandomNumberScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\RandomNumberScript.cs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\RandomNumberScript.cs.meta
+      projectPath: Assets\Scripts\RandomNumberScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\testScript.cs
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\testScript.cs
+      projectPath: Assets\Scripts\testScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\testScript.cs.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\testScript.cs.meta
+      projectPath: Assets\Scripts\testScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sounds.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds.meta
+      projectPath: Assets\Sounds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Droplet.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet.meta
+      projectPath: Assets\Sprites\Droplet.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Droplet\Drops.mat
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.mat
+      projectPath: Assets\Sprites\Droplet\Drops.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Droplet\Drops.mat.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.mat.meta
+      projectPath: Assets\Sprites\Droplet\Drops.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Droplet\Drops.tga
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.tga
+      projectPath: Assets\Sprites\Droplet\Drops.tga
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Droplet\Drops.tga.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.tga.meta
+      projectPath: Assets\Sprites\Droplet\Drops.tga.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Tim.png
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Tim.png
+      projectPath: Assets\Sprites\Tim.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Tim.png.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Tim.png.meta
+      projectPath: Assets\Sprites\Tim.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Wood.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood.meta
+      projectPath: Assets\Sprites\Wood.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Wood\wood project file.psd
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood project file.psd
+      projectPath: Assets\Sprites\Wood\wood project file.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Wood\wood project file.psd.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood project file.psd.meta
+      projectPath: Assets\Sprites\Wood\wood project file.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Wood\wood source.txt
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood source.txt
+      projectPath: Assets\Sprites\Wood\wood source.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Wood\wood source.txt.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood source.txt.meta
+      projectPath: Assets\Sprites\Wood\wood source.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Wood\wood.png
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood.png
+      projectPath: Assets\Sprites\Wood\wood.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Wood\wood.png.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood.png.meta
+      projectPath: Assets\Sprites\Wood\wood.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\water.png
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water.png
+      projectPath: Assets\Sprites\water.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\water.png.meta
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water.png.meta
+      projectPath: Assets\Sprites\water.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: UnityPackageManager\manifest.json
+      fullPath: F:\Unity\Projects\BeardsEye\UnityPackageManager\manifest.json
+      projectPath: UnityPackageManager\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 47cbf2e5dcd81f0584986f9b68c33ef9abbc7a17
+    mergeA: 
+    mergeB: 
+    authorName: Luke-DJ
+    authorEmail: u1752044@unimail.hud.ac.uk
+    commitEmail: u1752044@unimail.hud.ac.uk
+    commitName: Luke-DJ
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-01-26T13:55:12.0000000+00:00
+    commitTimeString: 2018-01-26T13:55:12.0000000+00:00
+    changes:
+    - path: .gitattributes
+      fullPath: F:\Unity\Projects\BeardsEye\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: F:\Unity\Projects\BeardsEye\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: F:\Unity\Projects\BeardsEye\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

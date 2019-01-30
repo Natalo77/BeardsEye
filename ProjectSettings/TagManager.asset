@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Water
+  - SawLeak
+  - NormalLeak
+  - IgnoreRaycast
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Plunger
+  - Level
+  - Leak
+  - PluggedLeak
+  - Player
+  - Pump
+  - PlungerDrop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PortholeWater
+    uniqueID: 646011359
+    locked: 0
+  - name: Background
+    uniqueID: 2570612189
+    locked: 0
+  - name: BackgroundPipes
+    uniqueID: 514746665
+    locked: 0
+  - name: Leak
+    uniqueID: 904294029
+    locked: 0
+  - name: PipeBlockBackGround
+    uniqueID: 3442847459
+    locked: 0
+  - name: Platforms
+    uniqueID: 3415377865
+    locked: 0
+  - name: Steam
+    uniqueID: 3937568415
+    locked: 0
+  - name: SteamValve
+    uniqueID: 416186925
+    locked: 0
+  - name: Interactable
+    uniqueID: 2274167375
+    locked: 0
+  - name: Player
+    uniqueID: 4042058151
+    locked: 0
+  - name: PlungerBelowWater
+    uniqueID: 2416234135
+    locked: 0
+  - name: Water
+    uniqueID: 352353535
+    locked: 0
+  - name: Inner&OuterBlocks
+    uniqueID: 1471292703
+    locked: 0
+  - name: BronzePiping
+    uniqueID: 2487201683
+    locked: 0
+  - name: OuterPipes
+    uniqueID: 4205869423
+    locked: 0
+  - name: PlungerAboveWater
+    uniqueID: 194267399
+    locked: 0

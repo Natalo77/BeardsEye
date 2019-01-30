@@ -1,0 +1,3793 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-03-30T14:17:57.2192899+01:00
+  lastVerifiedAtString: 2018-03-30T14:17:57.2572921+01:00
+  initializedAtString: 2018-03-30T13:03:16.6500160+01:00
+  entries:
+  - path: Assets\Animation.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animation.meta
+    projectPath: Assets\Animation.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Prefabs\Wood (Ceiling).prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Ceiling).prefab
+    projectPath: Assets\Prefabs\Wood (Ceiling).prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Prefabs\Wood (Ceiling).prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Ceiling).prefab.meta
+    projectPath: Assets\Prefabs\Wood (Ceiling).prefab.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Prefabs\Wood (Left wall).prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Left wall).prefab
+    projectPath: Assets\Prefabs\Wood (Left wall).prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Prefabs\Wood (Left wall).prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Left wall).prefab.meta
+    projectPath: Assets\Prefabs\Wood (Left wall).prefab.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Prefabs\Wood (Right wall).prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Right wall).prefab
+    projectPath: Assets\Prefabs\Wood (Right wall).prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Prefabs\Wood (Right wall).prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Right wall).prefab.meta
+    projectPath: Assets\Prefabs\Wood (Right wall).prefab.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\Main.unity
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Main.unity
+    projectPath: Assets\Scenes\Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\CameraShakeScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CameraShakeScript.cs
+    projectPath: Assets\Scripts\CameraShakeScript.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\CameraShakeScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CameraShakeScript.cs.meta
+    projectPath: Assets\Scripts\CameraShakeScript.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\CustomPlayerController.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CustomPlayerController.cs
+    projectPath: Assets\Scripts\CustomPlayerController.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\CustomPlayerController.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\CustomPlayerController.cs.meta
+    projectPath: Assets\Scripts\CustomPlayerController.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\LeakManagerScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakManagerScript.cs
+    projectPath: Assets\Scripts\LeakManagerScript.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\LeakManagerScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakManagerScript.cs.meta
+    projectPath: Assets\Scripts\LeakManagerScript.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\LeakScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakScript.cs
+    projectPath: Assets\Scripts\LeakScript.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\LeakScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\LeakScript.cs.meta
+    projectPath: Assets\Scripts\LeakScript.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\RandomNumberScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\RandomNumberScript.cs
+    projectPath: Assets\Scripts\RandomNumberScript.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\RandomNumberScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\RandomNumberScript.cs.meta
+    projectPath: Assets\Scripts\RandomNumberScript.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\testScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\testScript.cs
+    projectPath: Assets\Scripts\testScript.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scripts\testScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\testScript.cs.meta
+    projectPath: Assets\Scripts\testScript.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Sounds.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds.meta
+    projectPath: Assets\Sounds.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Sprites\Droplet\Drops.mat
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.mat
+    projectPath: Assets\Sprites\Droplet\Drops.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Sprites\Droplet\Drops.tga
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.tga
+    projectPath: Assets\Sprites\Droplet\Drops.tga
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Sprites\Tim.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Tim.png
+    projectPath: Assets\Sprites\Tim.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Sprites\Tim.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Tim.png.meta
+    projectPath: Assets\Sprites\Tim.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Sprites\Wood\wood project file.psd
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood project file.psd
+    projectPath: Assets\Sprites\Wood\wood project file.psd
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Sprites\Wood\wood.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood.png
+    projectPath: Assets\Sprites\Wood\wood.png
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Sprites\water.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water.png
+    projectPath: Assets\Sprites\water.png
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Sprites\water.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water.png.meta
+    projectPath: Assets\Sprites\water.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: F:\Unity\Projects\BeardsEye\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Animations.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations.meta
+    projectPath: Assets\Animations.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player.meta
+    projectPath: Assets\Animations\Player.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\1920x512 222.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\1920x512 222.png
+    projectPath: Assets\Animations\Player\1920x512 222.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\1920x512 222.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\1920x512 222.png.meta
+    projectPath: Assets\Animations\Player\1920x512 222.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall.meta
+    projectPath: Assets\Animations\Player\Fall.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall1.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall1.anim
+    projectPath: Assets\Animations\Player\Fall\Fall1.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall1.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall1.anim.meta
+    projectPath: Assets\Animations\Player\Fall\Fall1.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall2.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall2.anim
+    projectPath: Assets\Animations\Player\Fall\Fall2.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall2.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall2.anim.meta
+    projectPath: Assets\Animations\Player\Fall\Fall2.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall3.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall3.anim
+    projectPath: Assets\Animations\Player\Fall\Fall3.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall3.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall3.anim.meta
+    projectPath: Assets\Animations\Player\Fall\Fall3.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall4.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall4.anim
+    projectPath: Assets\Animations\Player\Fall\Fall4.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall4.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall4.anim.meta
+    projectPath: Assets\Animations\Player\Fall\Fall4.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall5.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall5.anim
+    projectPath: Assets\Animations\Player\Fall\Fall5.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Fall\Fall5.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Fall\Fall5.anim.meta
+    projectPath: Assets\Animations\Player\Fall\Fall5.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Idle2.0.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Idle2.0.anim
+    projectPath: Assets\Animations\Player\Idle2.0.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Idle2.0.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Idle2.0.anim.meta
+    projectPath: Assets\Animations\Player\Idle2.0.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump 2 (fall).anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump 2 (fall).anim
+    projectPath: Assets\Animations\Player\Jump 2 (fall).anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump 2 (fall).anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump 2 (fall).anim.meta
+    projectPath: Assets\Animations\Player\Jump 2 (fall).anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump 3 (Fall).anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump 3 (Fall).anim
+    projectPath: Assets\Animations\Player\Jump 3 (Fall).anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump 3 (Fall).anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump 3 (Fall).anim.meta
+    projectPath: Assets\Animations\Player\Jump 3 (Fall).anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump 4 (fall).anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump 4 (fall).anim
+    projectPath: Assets\Animations\Player\Jump 4 (fall).anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump 4 (fall).anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump 4 (fall).anim.meta
+    projectPath: Assets\Animations\Player\Jump 4 (fall).anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump1(fall).anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump1(fall).anim
+    projectPath: Assets\Animations\Player\Jump1(fall).anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump1(fall).anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump1(fall).anim.meta
+    projectPath: Assets\Animations\Player\Jump1(fall).anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump2.0.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump2.0.anim
+    projectPath: Assets\Animations\Player\Jump2.0.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Jump2.0.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Jump2.0.anim.meta
+    projectPath: Assets\Animations\Player\Jump2.0.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Land.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Land.anim
+    projectPath: Assets\Animations\Player\Land.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Land.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Land.anim.meta
+    projectPath: Assets\Animations\Player\Land.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Land1.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Land1.anim
+    projectPath: Assets\Animations\Player\Land1.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Land1.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Land1.anim.meta
+    projectPath: Assets\Animations\Player\Land1.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Land2.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Land2.anim
+    projectPath: Assets\Animations\Player\Land2.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Land2.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Land2.anim.meta
+    projectPath: Assets\Animations\Player\Land2.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Player.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Player.controller
+    projectPath: Assets\Animations\Player\Player.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Player.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Player.controller.meta
+    projectPath: Assets\Animations\Player\Player.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerIdle.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerIdle.anim
+    projectPath: Assets\Animations\Player\PlayerIdle.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerIdle.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerIdle.anim.meta
+    projectPath: Assets\Animations\Player\PlayerIdle.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerJump.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerJump.anim
+    projectPath: Assets\Animations\Player\PlayerJump.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerJump.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerJump.anim.meta
+    projectPath: Assets\Animations\Player\PlayerJump.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerRun.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerRun.anim
+    projectPath: Assets\Animations\Player\PlayerRun.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerRun.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerRun.anim.meta
+    projectPath: Assets\Animations\Player\PlayerRun.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerThrow.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerThrow.anim
+    projectPath: Assets\Animations\Player\PlayerThrow.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\PlayerThrow.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\PlayerThrow.anim.meta
+    projectPath: Assets\Animations\Player\PlayerThrow.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Slip.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Slip.anim
+    projectPath: Assets\Animations\Player\Slip.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Slip.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Slip.anim.meta
+    projectPath: Assets\Animations\Player\Slip.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Use This One.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Use This One.png
+    projectPath: Assets\Animations\Player\Use This One.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\Use This One.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\Use This One.png.meta
+    projectPath: Assets\Animations\Player\Use This One.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\land2.0.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\land2.0.anim
+    projectPath: Assets\Animations\Player\land2.0.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\land2.0.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\land2.0.anim.meta
+    projectPath: Assets\Animations\Player\land2.0.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\run2.0.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\run2.0.anim
+    projectPath: Assets\Animations\Player\run2.0.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\run2.0.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\run2.0.anim.meta
+    projectPath: Assets\Animations\Player\run2.0.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\slip 45.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\slip 45.png
+    projectPath: Assets\Animations\Player\slip 45.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\slip 45.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\slip 45.png.meta
+    projectPath: Assets\Animations\Player\slip 45.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\slip.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\slip.png
+    projectPath: Assets\Animations\Player\slip.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\slip.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\slip.png.meta
+    projectPath: Assets\Animations\Player\slip.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\throw2.0.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\throw2.0.anim
+    projectPath: Assets\Animations\Player\throw2.0.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Player\throw2.0.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Player\throw2.0.anim.meta
+    projectPath: Assets\Animations\Player\throw2.0.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Plunger.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Plunger.meta
+    projectPath: Assets\Animations\Plunger.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Plunger\Plunger.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Plunger\Plunger.controller
+    projectPath: Assets\Animations\Plunger\Plunger.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Plunger\Plunger.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Plunger\Plunger.controller.meta
+    projectPath: Assets\Animations\Plunger\Plunger.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Plunger\plungerHitAnim.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Plunger\plungerHitAnim.anim
+    projectPath: Assets\Animations\Plunger\plungerHitAnim.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Animations\Plunger\plungerHitAnim.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Animations\Plunger\plungerHitAnim.anim.meta
+    projectPath: Assets\Animations\Plunger\plungerHitAnim.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\AudioMixer.mixer
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\AudioMixer.mixer
+    projectPath: Assets\AudioMixer.mixer
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\AudioMixer.mixer.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\AudioMixer.mixer.meta
+    projectPath: Assets\AudioMixer.mixer.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Fonts.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Fonts.meta
+    projectPath: Assets\Fonts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Fonts\gemfonts_treasure-map-deadhand.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Fonts\gemfonts_treasure-map-deadhand.meta
+    projectPath: Assets\Fonts\gemfonts_treasure-map-deadhand.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Fonts\gemfonts_treasure-map-deadhand\GemText.txt
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Fonts\gemfonts_treasure-map-deadhand\GemText.txt
+    projectPath: Assets\Fonts\gemfonts_treasure-map-deadhand\GemText.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Fonts\gemfonts_treasure-map-deadhand\GemText.txt.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Fonts\gemfonts_treasure-map-deadhand\GemText.txt.meta
+    projectPath: Assets\Fonts\gemfonts_treasure-map-deadhand\GemText.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Fonts\gemfonts_treasure-map-deadhand\Treamd.ttf
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Fonts\gemfonts_treasure-map-deadhand\Treamd.ttf
+    projectPath: Assets\Fonts\gemfonts_treasure-map-deadhand\Treamd.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Fonts\gemfonts_treasure-map-deadhand\Treamd.ttf.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Fonts\gemfonts_treasure-map-deadhand\Treamd.ttf.meta
+    projectPath: Assets\Fonts\gemfonts_treasure-map-deadhand\Treamd.ttf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PhysicsMaterials\Normal.physicsMaterial2D
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\PhysicsMaterials\Normal.physicsMaterial2D
+    projectPath: Assets\PhysicsMaterials\Normal.physicsMaterial2D
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PhysicsMaterials\Normal.physicsMaterial2D.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\PhysicsMaterials\Normal.physicsMaterial2D.meta
+    projectPath: Assets\PhysicsMaterials\Normal.physicsMaterial2D.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Archive.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Archive.meta
+    projectPath: Assets\Prefabs\Archive.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Archive\Pump.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Archive\Pump.prefab
+    projectPath: Assets\Prefabs\Archive\Pump.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Archive\Pump.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Archive\Pump.prefab.meta
+    projectPath: Assets\Prefabs\Archive\Pump.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Plunger.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Plunger.prefab
+    projectPath: Assets\Prefabs\Plunger.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Plunger.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Plunger.prefab.meta
+    projectPath: Assets\Prefabs\Plunger.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Pump.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Pump.prefab
+    projectPath: Assets\Prefabs\Pump.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Pump.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Pump.prefab.meta
+    projectPath: Assets\Prefabs\Pump.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Steam Valve.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Steam Valve.prefab
+    projectPath: Assets\Prefabs\Steam Valve.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Steam Valve.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Steam Valve.prefab.meta
+    projectPath: Assets\Prefabs\Steam Valve.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Wood (Ceiling) (The Saw).prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Ceiling) (The Saw).prefab
+    projectPath: Assets\Prefabs\Wood (Ceiling) (The Saw).prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\Wood (Ceiling) (The Saw).prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Prefabs\Wood (Ceiling) (The Saw).prefab.meta
+    projectPath: Assets\Prefabs\Wood (Ceiling) (The Saw).prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Leaderboard.unity
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Leaderboard.unity
+    projectPath: Assets\Scenes\Leaderboard.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Leaderboard.unity.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Leaderboard.unity.meta
+    projectPath: Assets\Scenes\Leaderboard.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Menu.unity
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Menu.unity.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Menu.unity.meta
+    projectPath: Assets\Scenes\Menu.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Options.unity
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Options.unity
+    projectPath: Assets\Scenes\Options.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Options.unity.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scenes\Options.unity.meta
+    projectPath: Assets\Scenes\Options.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\CameraPositioningScriptOld.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\CameraPositioningScriptOld.cs
+    projectPath: Assets\Scripts\Archive\CameraPositioningScriptOld.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\CameraPositioningScriptOld.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\CameraPositioningScriptOld.cs.meta
+    projectPath: Assets\Scripts\Archive\CameraPositioningScriptOld.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\CameraShakeScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\CameraShakeScript.cs
+    projectPath: Assets\Scripts\Archive\CameraShakeScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\CameraShakeScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\CameraShakeScript.cs.meta
+    projectPath: Assets\Scripts\Archive\CameraShakeScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\Collisions.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\Collisions.meta
+    projectPath: Assets\Scripts\Archive\Collisions.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\Collisions\LevelCollisionScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\Collisions\LevelCollisionScript.cs
+    projectPath: Assets\Scripts\Archive\Collisions\LevelCollisionScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\Collisions\LevelCollisionScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\Collisions\LevelCollisionScript.cs.meta
+    projectPath: Assets\Scripts\Archive\Collisions\LevelCollisionScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\Collisions\PlayerCollisionScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\Collisions\PlayerCollisionScript.cs
+    projectPath: Assets\Scripts\Archive\Collisions\PlayerCollisionScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\Collisions\PlayerCollisionScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\Collisions\PlayerCollisionScript.cs.meta
+    projectPath: Assets\Scripts\Archive\Collisions\PlayerCollisionScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\Collisions\WaterCollisionScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\Collisions\WaterCollisionScript.cs
+    projectPath: Assets\Scripts\Archive\Collisions\WaterCollisionScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Archive\Collisions\WaterCollisionScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Archive\Collisions\WaterCollisionScript.cs.meta
+    projectPath: Assets\Scripts\Archive\Collisions\WaterCollisionScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Audio.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Audio.meta
+    projectPath: Assets\Scripts\Audio.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Audio\audioManagerScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Audio\audioManagerScript.cs
+    projectPath: Assets\Scripts\Audio\audioManagerScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Audio\audioManagerScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Audio\audioManagerScript.cs.meta
+    projectPath: Assets\Scripts\Audio\audioManagerScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Audio\audioStartupScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Audio\audioStartupScript.cs
+    projectPath: Assets\Scripts\Audio\audioStartupScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Audio\audioStartupScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Audio\audioStartupScript.cs.meta
+    projectPath: Assets\Scripts\Audio\audioStartupScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Audio\menuMusicStartupScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Audio\menuMusicStartupScript.cs
+    projectPath: Assets\Scripts\Audio\menuMusicStartupScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Audio\menuMusicStartupScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Audio\menuMusicStartupScript.cs.meta
+    projectPath: Assets\Scripts\Audio\menuMusicStartupScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Camera.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Camera.meta
+    projectPath: Assets\Scripts\Camera.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Camera\CameraPositioningScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Camera\CameraPositioningScript.cs
+    projectPath: Assets\Scripts\Camera\CameraPositioningScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Camera\CameraPositioningScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Camera\CameraPositioningScript.cs.meta
+    projectPath: Assets\Scripts\Camera\CameraPositioningScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Leaks.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Leaks.meta
+    projectPath: Assets\Scripts\Leaks.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Leaks\LeakManagerScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Leaks\LeakManagerScript.cs
+    projectPath: Assets\Scripts\Leaks\LeakManagerScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Leaks\LeakManagerScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Leaks\LeakManagerScript.cs.meta
+    projectPath: Assets\Scripts\Leaks\LeakManagerScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Leaks\LeakRotate.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Leaks\LeakRotate.cs
+    projectPath: Assets\Scripts\Leaks\LeakRotate.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Leaks\LeakRotate.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Leaks\LeakRotate.cs.meta
+    projectPath: Assets\Scripts\Leaks\LeakRotate.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Leaks\LeakScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Leaks\LeakScript.cs
+    projectPath: Assets\Scripts\Leaks\LeakScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Leaks\LeakScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Leaks\LeakScript.cs.meta
+    projectPath: Assets\Scripts\Leaks\LeakScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level.meta
+    projectPath: Assets\Scripts\Level.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\DrainScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\DrainScript.cs
+    projectPath: Assets\Scripts\Level\DrainScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\DrainScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\DrainScript.cs.meta
+    projectPath: Assets\Scripts\Level\DrainScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\SplashScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\SplashScript.cs
+    projectPath: Assets\Scripts\Level\SplashScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\SplashScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\SplashScript.cs.meta
+    projectPath: Assets\Scripts\Level\SplashScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\SteamCollisionScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\SteamCollisionScript.cs
+    projectPath: Assets\Scripts\Level\SteamCollisionScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\SteamCollisionScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\SteamCollisionScript.cs.meta
+    projectPath: Assets\Scripts\Level\SteamCollisionScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\SteamValveScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\SteamValveScript.cs
+    projectPath: Assets\Scripts\Level\SteamValveScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Level\SteamValveScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Level\SteamValveScript.cs.meta
+    projectPath: Assets\Scripts\Level\SteamValveScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player.meta
+    projectPath: Assets\Scripts\Player.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\CustomPlayerController.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\CustomPlayerController.cs
+    projectPath: Assets\Scripts\Player\CustomPlayerController.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\CustomPlayerController.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\CustomPlayerController.cs.meta
+    projectPath: Assets\Scripts\Player\CustomPlayerController.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\DrowningScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\DrowningScript.cs
+    projectPath: Assets\Scripts\Player\DrowningScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\DrowningScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\DrowningScript.cs.meta
+    projectPath: Assets\Scripts\Player\DrowningScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\LeaderBoard.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\LeaderBoard.cs
+    projectPath: Assets\Scripts\Player\LeaderBoard.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\LeaderBoard.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\LeaderBoard.cs.meta
+    projectPath: Assets\Scripts\Player\LeaderBoard.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\SavingService.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\SavingService.cs
+    projectPath: Assets\Scripts\Player\SavingService.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\SavingService.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\SavingService.cs.meta
+    projectPath: Assets\Scripts\Player\SavingService.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\Stats.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\Stats.cs
+    projectPath: Assets\Scripts\Player\Stats.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Player\Stats.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Player\Stats.cs.meta
+    projectPath: Assets\Scripts\Player\Stats.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger.meta
+    projectPath: Assets\Scripts\Plunger.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\DestroyAfterTime.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\DestroyAfterTime.cs
+    projectPath: Assets\Scripts\Plunger\DestroyAfterTime.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\DestroyAfterTime.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\DestroyAfterTime.cs.meta
+    projectPath: Assets\Scripts\Plunger\DestroyAfterTime.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\PlungerHit.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\PlungerHit.cs
+    projectPath: Assets\Scripts\Plunger\PlungerHit.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\PlungerHit.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\PlungerHit.cs.meta
+    projectPath: Assets\Scripts\Plunger\PlungerHit.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\PlungerRotate.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\PlungerRotate.cs
+    projectPath: Assets\Scripts\Plunger\PlungerRotate.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\PlungerRotate.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\PlungerRotate.cs.meta
+    projectPath: Assets\Scripts\Plunger\PlungerRotate.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\RotatePointsReferenceScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\RotatePointsReferenceScript.cs
+    projectPath: Assets\Scripts\Plunger\RotatePointsReferenceScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\RotatePointsReferenceScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\RotatePointsReferenceScript.cs.meta
+    projectPath: Assets\Scripts\Plunger\RotatePointsReferenceScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\ThrowPlunger.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\ThrowPlunger.cs
+    projectPath: Assets\Scripts\Plunger\ThrowPlunger.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Plunger\ThrowPlunger.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Plunger\ThrowPlunger.cs.meta
+    projectPath: Assets\Scripts\Plunger\ThrowPlunger.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI.meta
+    projectPath: Assets\Scripts\UI.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\GameOverUIManager.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\GameOverUIManager.cs
+    projectPath: Assets\Scripts\UI\GameOverUIManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\GameOverUIManager.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\GameOverUIManager.cs.meta
+    projectPath: Assets\Scripts\UI\GameOverUIManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\LeaderboardUIManager.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\LeaderboardUIManager.cs
+    projectPath: Assets\Scripts\UI\LeaderboardUIManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\LeaderboardUIManager.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\LeaderboardUIManager.cs.meta
+    projectPath: Assets\Scripts\UI\LeaderboardUIManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\MenuUIManager.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\MenuUIManager.cs
+    projectPath: Assets\Scripts\UI\MenuUIManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\MenuUIManager.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\MenuUIManager.cs.meta
+    projectPath: Assets\Scripts\UI\MenuUIManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\OptionsUIManager.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\OptionsUIManager.cs
+    projectPath: Assets\Scripts\UI\OptionsUIManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\OptionsUIManager.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\OptionsUIManager.cs.meta
+    projectPath: Assets\Scripts\UI\OptionsUIManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\PauseUIManager.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\PauseUIManager.cs
+    projectPath: Assets\Scripts\UI\PauseUIManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\PauseUIManager.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\PauseUIManager.cs.meta
+    projectPath: Assets\Scripts\UI\PauseUIManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\TimeSurvivedTextScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\TimeSurvivedTextScript.cs
+    projectPath: Assets\Scripts\UI\TimeSurvivedTextScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\TimeSurvivedTextScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\TimeSurvivedTextScript.cs.meta
+    projectPath: Assets\Scripts\UI\TimeSurvivedTextScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\UIManager.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\UIManager.cs
+    projectPath: Assets\Scripts\UI\UIManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\UI\UIManager.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\UI\UIManager.cs.meta
+    projectPath: Assets\Scripts\UI\UIManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Utility.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Utility.meta
+    projectPath: Assets\Scripts\Utility.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Utility\RandomNumberScript.cs
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Utility\RandomNumberScript.cs
+    projectPath: Assets\Scripts\Utility\RandomNumberScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Utility\RandomNumberScript.cs.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Scripts\Utility\RandomNumberScript.cs.meta
+    projectPath: Assets\Scripts\Utility\RandomNumberScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\boing.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\boing.mp3
+    projectPath: Assets\Sounds\boing.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\boing.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\boing.mp3.meta
+    projectPath: Assets\Sounds\boing.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\drain.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\drain.mp3
+    projectPath: Assets\Sounds\drain.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\drain.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\drain.mp3.meta
+    projectPath: Assets\Sounds\drain.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\gameover.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\gameover.mp3
+    projectPath: Assets\Sounds\gameover.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\gameover.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\gameover.mp3.meta
+    projectPath: Assets\Sounds\gameover.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\main_music.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\main_music.mp3
+    projectPath: Assets\Sounds\main_music.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\main_music.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\main_music.mp3.meta
+    projectPath: Assets\Sounds\main_music.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\menu_music.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\menu_music.mp3
+    projectPath: Assets\Sounds\menu_music.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\menu_music.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\menu_music.mp3.meta
+    projectPath: Assets\Sounds\menu_music.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\slip.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\slip.mp3
+    projectPath: Assets\Sounds\slip.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\slip.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\slip.mp3.meta
+    projectPath: Assets\Sounds\slip.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\splash.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\splash.mp3
+    projectPath: Assets\Sounds\splash.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\splash.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\splash.mp3.meta
+    projectPath: Assets\Sounds\splash.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\whoosh.mp3
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\whoosh.mp3
+    projectPath: Assets\Sounds\whoosh.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\whoosh.mp3.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sounds\whoosh.mp3.meta
+    projectPath: Assets\Sounds\whoosh.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\BeardsEye.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\BeardsEye.png
+    projectPath: Assets\Sprites\BeardsEye.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\BeardsEye.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\BeardsEye.png.meta
+    projectPath: Assets\Sprites\BeardsEye.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\BeardsEye.psd
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\BeardsEye.psd
+    projectPath: Assets\Sprites\BeardsEye.psd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\BeardsEye.psd.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\BeardsEye.psd.meta
+    projectPath: Assets\Sprites\BeardsEye.psd.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets.meta
+    projectPath: Assets\Sprites\Blue_Assets.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Corner_Pipe_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Corner_Pipe_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\Corner_Pipe_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Corner_Pipe_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Corner_Pipe_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\Corner_Pipe_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Left_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Left_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Left_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Left_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Left_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Left_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Right_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Right_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Right_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Right_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Right_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Broken_Right_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Left_End_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Left_End_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Left_End_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Left_End_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Left_End_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Left_End_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Right_End_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Right_End_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Right_End_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Straight_Pipe_Right_End_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Straight_Pipe_Right_End_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\Straight_Pipe_Right_End_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Stright_Pipe_Middle_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Stright_Pipe_Middle_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\Stright_Pipe_Middle_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\Stright_Pipe_Middle_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\Stright_Pipe_Middle_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\Stright_Pipe_Middle_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\T_Pipe_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\T_Pipe_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\T_Pipe_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\T_Pipe_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\T_Pipe_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\T_Pipe_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\U_Curve_Pipe_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\U_Curve_Pipe_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\U_Curve_Pipe_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\U_Curve_Pipe_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\U_Curve_Pipe_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\U_Curve_Pipe_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\U_Straight_Pipe_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\U_Straight_Pipe_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\U_Straight_Pipe_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\U_Straight_Pipe_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\U_Straight_Pipe_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\U_Straight_Pipe_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\X_Pipe_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\X_Pipe_Blue.png
+    projectPath: Assets\Sprites\Blue_Assets\X_Pipe_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Assets\X_Pipe_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Assets\X_Pipe_Blue.png.meta
+    projectPath: Assets\Sprites\Blue_Assets\X_Pipe_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Pipe.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Pipe.prefab
+    projectPath: Assets\Sprites\Blue_Pipe.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Blue_Pipe.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Blue_Pipe.prefab.meta
+    projectPath: Assets\Sprites\Blue_Pipe.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Boiler_Blue.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Boiler_Blue.png
+    projectPath: Assets\Sprites\Boiler_Blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Boiler_Blue.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Boiler_Blue.png.meta
+    projectPath: Assets\Sprites\Boiler_Blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Bronze_Pipe.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Bronze_Pipe.prefab
+    projectPath: Assets\Sprites\Bronze_Pipe.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Bronze_Pipe.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Bronze_Pipe.prefab.meta
+    projectPath: Assets\Sprites\Bronze_Pipe.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Droplet\Drops.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.png
+    projectPath: Assets\Sprites\Droplet\Drops.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Droplet\Drops.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Droplet\Drops.png.meta
+    projectPath: Assets\Sprites\Droplet\Drops.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets.meta
+    projectPath: Assets\Sprites\Green_Assets.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Bolier_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Bolier_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Bolier_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Bolier_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Bolier_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Bolier_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Corner_Pipe_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Corner_Pipe_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Corner_Pipe_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Corner_Pipe_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Corner_Pipe_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Corner_Pipe_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Left_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Left_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Left_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Left_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Left_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Left_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Right_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Right_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Right_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Right_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Right_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Broken_Right_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Middle_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Middle_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Middle_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Middle_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Middle_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Middle_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Right_End_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Right_End_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Right_End_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_Right_End_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_Right_End_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_Right_End_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_left_End_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_left_End_Green.png
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_left_End_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\Straight_Pipe_left_End_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\Straight_Pipe_left_End_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\Straight_Pipe_left_End_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\T_Pipe_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\T_Pipe_Green.png
+    projectPath: Assets\Sprites\Green_Assets\T_Pipe_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\T_Pipe_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\T_Pipe_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\T_Pipe_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\U_Curve_Pipe_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\U_Curve_Pipe_Green.png
+    projectPath: Assets\Sprites\Green_Assets\U_Curve_Pipe_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\U_Curve_Pipe_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\U_Curve_Pipe_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\U_Curve_Pipe_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\U_Straight_Pipe_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\U_Straight_Pipe_Green.png
+    projectPath: Assets\Sprites\Green_Assets\U_Straight_Pipe_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\U_Straight_Pipe_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\U_Straight_Pipe_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\U_Straight_Pipe_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\X_Pipe_Green.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\X_Pipe_Green.png
+    projectPath: Assets\Sprites\Green_Assets\X_Pipe_Green.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Green_Assets\X_Pipe_Green.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Green_Assets\X_Pipe_Green.png.meta
+    projectPath: Assets\Sprites\Green_Assets\X_Pipe_Green.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets.meta
+    projectPath: Assets\Sprites\Grey_Assets.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Boiler_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Boiler_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Boiler_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Boiler_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Boiler_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Boiler_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Corner_Pipe_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Corner_Pipe_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Corner_Pipe_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Corner_Pipe_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Corner_Pipe_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Corner_Pipe_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Staight_Pipe_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Staight_Pipe_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Staight_Pipe_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Staight_Pipe_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Staight_Pipe_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Staight_Pipe_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Left_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Left_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Left_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Left_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Left_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Left_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Right_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Right_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Right_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Right_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Right_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Broken_Right_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Left_End_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Left_End_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Left_End_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Left_End_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Left_End_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Left_End_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Middle_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Middle_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Middle_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Middle_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Middle_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Middle_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Right_End_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Right_End_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Right_End_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\Straight_Pipe_Right_End_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\Straight_Pipe_Right_End_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\Straight_Pipe_Right_End_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\T_Pipe_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\T_Pipe_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\T_Pipe_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\T_Pipe_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\T_Pipe_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\T_Pipe_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\U_Curve_Pipe_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\U_Curve_Pipe_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\U_Curve_Pipe_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\U_Curve_Pipe_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\U_Curve_Pipe_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\U_Curve_Pipe_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\U_Straight_Pipe_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\U_Straight_Pipe_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\U_Straight_Pipe_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\U_Straight_Pipe_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\U_Straight_Pipe_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\U_Straight_Pipe_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\X_Pipe_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\X_Pipe_Grey.png
+    projectPath: Assets\Sprites\Grey_Assets\X_Pipe_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Grey_Assets\X_Pipe_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Grey_Assets\X_Pipe_Grey.png.meta
+    projectPath: Assets\Sprites\Grey_Assets\X_Pipe_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Icon (old).png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Icon (old).png
+    projectPath: Assets\Sprites\Icon (old).png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Icon (old).png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Icon (old).png.meta
+    projectPath: Assets\Sprites\Icon (old).png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Icon.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Icon.png
+    projectPath: Assets\Sprites\Icon.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Icon.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Icon.png.meta
+    projectPath: Assets\Sprites\Icon.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Other_Documents.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Other_Documents.meta
+    projectPath: Assets\Sprites\Other_Documents.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Other_Documents\Background varirents2.0.psd
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Other_Documents\Background
+      varirents2.0.psd
+    projectPath: Assets\Sprites\Other_Documents\Background varirents2.0.psd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Other_Documents\Background varirents2.0.psd.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Other_Documents\Background
+      varirents2.0.psd.meta
+    projectPath: Assets\Sprites\Other_Documents\Background varirents2.0.psd.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Other_Documents\Pipe_Adjuster_Document.psd
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Other_Documents\Pipe_Adjuster_Document.psd
+    projectPath: Assets\Sprites\Other_Documents\Pipe_Adjuster_Document.psd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Other_Documents\Pipe_Adjuster_Document.psd.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Other_Documents\Pipe_Adjuster_Document.psd.meta
+    projectPath: Assets\Sprites\Other_Documents\Pipe_Adjuster_Document.psd.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\OuterWall.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\OuterWall.prefab
+    projectPath: Assets\Sprites\OuterWall.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\OuterWall.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\OuterWall.prefab.meta
+    projectPath: Assets\Sprites\OuterWall.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Pipe_Accessories.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Pipe_Accessories.meta
+    projectPath: Assets\Sprites\Pipe_Accessories.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Pipe_Accessories\indicator.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Pipe_Accessories\indicator.png
+    projectPath: Assets\Sprites\Pipe_Accessories\indicator.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Pipe_Accessories\indicator.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Pipe_Accessories\indicator.png.meta
+    projectPath: Assets\Sprites\Pipe_Accessories\indicator.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Pipe_Accessories\valve.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Pipe_Accessories\valve.png
+    projectPath: Assets\Sprites\Pipe_Accessories\valve.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Pipe_Accessories\valve.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Pipe_Accessories\valve.png.meta
+    projectPath: Assets\Sprites\Pipe_Accessories\valve.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Plunger_Sprite4.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Plunger_Sprite4.png
+    projectPath: Assets\Sprites\Plunger_Sprite4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Plunger_Sprite4.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Plunger_Sprite4.png.meta
+    projectPath: Assets\Sprites\Plunger_Sprite4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Plunger_Sprite_Vertical.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Plunger_Sprite_Vertical.png
+    projectPath: Assets\Sprites\Plunger_Sprite_Vertical.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Plunger_Sprite_Vertical.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Plunger_Sprite_Vertical.png.meta
+    projectPath: Assets\Sprites\Plunger_Sprite_Vertical.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Pump 14.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Pump 14.png
+    projectPath: Assets\Sprites\Pump 14.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Pump 14.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Pump 14.png.meta
+    projectPath: Assets\Sprites\Pump 14.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\ScreenSelector.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\ScreenSelector.png
+    projectPath: Assets\Sprites\ScreenSelector.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\ScreenSelector.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\ScreenSelector.png.meta
+    projectPath: Assets\Sprites\ScreenSelector.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Splash.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Splash.png
+    projectPath: Assets\Sprites\Splash.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Splash.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Splash.png.meta
+    projectPath: Assets\Sprites\Splash.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Splash.psd
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Splash.psd
+    projectPath: Assets\Sprites\Splash.psd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Splash.psd.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Splash.psd.meta
+    projectPath: Assets\Sprites\Splash.psd.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Splash2.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Splash2.png
+    projectPath: Assets\Sprites\Splash2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Splash2.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Splash2.png.meta
+    projectPath: Assets\Sprites\Splash2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Square 1.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Square 1.png
+    projectPath: Assets\Sprites\Square 1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Square 1.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Square 1.png.meta
+    projectPath: Assets\Sprites\Square 1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Square.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Square.png
+    projectPath: Assets\Sprites\Square.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Square.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Square.png.meta
+    projectPath: Assets\Sprites\Square.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe.meta
+    projectPath: Assets\Sprites\Sub_Pipe.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Sub_Pipe_Adjuster.psd
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Sub_Pipe_Adjuster.psd
+    projectPath: Assets\Sprites\Sub_Pipe\Sub_Pipe_Adjuster.psd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Sub_Pipe_Adjuster.psd.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Sub_Pipe_Adjuster.psd.meta
+    projectPath: Assets\Sprites\Sub_Pipe\Sub_Pipe_Adjuster.psd.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Thin_Sub_Corner_bronze.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Thin_Sub_Corner_bronze.png
+    projectPath: Assets\Sprites\Sub_Pipe\Thin_Sub_Corner_bronze.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Thin_Sub_Corner_bronze.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Thin_Sub_Corner_bronze.png.meta
+    projectPath: Assets\Sprites\Sub_Pipe\Thin_Sub_Corner_bronze.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Thin_Sub_Straight_Bronze.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Thin_Sub_Straight_Bronze.png
+    projectPath: Assets\Sprites\Sub_Pipe\Thin_Sub_Straight_Bronze.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Thin_Sub_Straight_Bronze.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Thin_Sub_Straight_Bronze.png.meta
+    projectPath: Assets\Sprites\Sub_Pipe\Thin_Sub_Straight_Bronze.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Thin_Sub_T_Bronze.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Thin_Sub_T_Bronze.png
+    projectPath: Assets\Sprites\Sub_Pipe\Thin_Sub_T_Bronze.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Sub_Pipe\Thin_Sub_T_Bronze.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Sub_Pipe\Thin_Sub_T_Bronze.png.meta
+    projectPath: Assets\Sprites\Sub_Pipe\Thin_Sub_T_Bronze.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Corner_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Corner_Grey.png
+    projectPath: Assets\Sprites\Thin_Sub_Corner_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Corner_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Corner_Grey.png.meta
+    projectPath: Assets\Sprites\Thin_Sub_Corner_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Corner_bronze.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Corner_bronze.png
+    projectPath: Assets\Sprites\Thin_Sub_Corner_bronze.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Corner_bronze.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Corner_bronze.png.meta
+    projectPath: Assets\Sprites\Thin_Sub_Corner_bronze.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Straight_Bronze.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Straight_Bronze.png
+    projectPath: Assets\Sprites\Thin_Sub_Straight_Bronze.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Straight_Bronze.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Straight_Bronze.png.meta
+    projectPath: Assets\Sprites\Thin_Sub_Straight_Bronze.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Straight_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Straight_Grey.png
+    projectPath: Assets\Sprites\Thin_Sub_Straight_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_Straight_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_Straight_Grey.png.meta
+    projectPath: Assets\Sprites\Thin_Sub_Straight_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_T_Bronze.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_T_Bronze.png
+    projectPath: Assets\Sprites\Thin_Sub_T_Bronze.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_T_Bronze.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_T_Bronze.png.meta
+    projectPath: Assets\Sprites\Thin_Sub_T_Bronze.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_T_Grey.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_T_Grey.png
+    projectPath: Assets\Sprites\Thin_Sub_T_Grey.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Thin_Sub_T_Grey.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Thin_Sub_T_Grey.png.meta
+    projectPath: Assets\Sprites\Thin_Sub_T_Grey.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wall_2.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wall_2.png
+    projectPath: Assets\Sprites\Wall_2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wall_2.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wall_2.png.meta
+    projectPath: Assets\Sprites\Wall_2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_Right_leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_Right_leak.png
+    projectPath: Assets\Sprites\Wood\Metal_Right_leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_Right_leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_Right_leak.png.meta
+    projectPath: Assets\Sprites\Wood\Metal_Right_leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_Top_leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_Top_leak.png
+    projectPath: Assets\Sprites\Wood\Metal_Top_leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_Top_leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_Top_leak.png.meta
+    projectPath: Assets\Sprites\Wood\Metal_Top_leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_bottom_leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_bottom_leak.png
+    projectPath: Assets\Sprites\Wood\Metal_bottom_leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_bottom_leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_bottom_leak.png.meta
+    projectPath: Assets\Sprites\Wood\Metal_bottom_leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_left_leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_left_leak.png
+    projectPath: Assets\Sprites\Wood\Metal_left_leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\Metal_left_leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\Metal_left_leak.png.meta
+    projectPath: Assets\Sprites\Wood\Metal_left_leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal leak.png
+    projectPath: Assets\Sprites\Wood\metal leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal leak.png.meta
+    projectPath: Assets\Sprites\Wood\metal leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Bottom_Left_Corner_Leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Bottom_Left_Corner_Leak.png
+    projectPath: Assets\Sprites\Wood\metal_Bottom_Left_Corner_Leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Bottom_Left_Corner_Leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Bottom_Left_Corner_Leak.png.meta
+    projectPath: Assets\Sprites\Wood\metal_Bottom_Left_Corner_Leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Bottom_Right_Corner_Leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Bottom_Right_Corner_Leak.png
+    projectPath: Assets\Sprites\Wood\metal_Bottom_Right_Corner_Leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Bottom_Right_Corner_Leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Bottom_Right_Corner_Leak.png.meta
+    projectPath: Assets\Sprites\Wood\metal_Bottom_Right_Corner_Leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Top_Left_Corner_Leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Top_Left_Corner_Leak.png
+    projectPath: Assets\Sprites\Wood\metal_Top_Left_Corner_Leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Top_Left_Corner_Leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Top_Left_Corner_Leak.png.meta
+    projectPath: Assets\Sprites\Wood\metal_Top_Left_Corner_Leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Top_Right_Corner_Leak.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Top_Right_Corner_Leak.png
+    projectPath: Assets\Sprites\Wood\metal_Top_Right_Corner_Leak.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\metal_Top_Right_Corner_Leak.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\metal_Top_Right_Corner_Leak.png.meta
+    projectPath: Assets\Sprites\Wood\metal_Top_Right_Corner_Leak.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\wood_0.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood_0.controller
+    projectPath: Assets\Sprites\Wood\wood_0.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Wood\wood_0.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\Wood\wood_0.controller.meta
+    projectPath: Assets\Sprites\Wood\wood_0.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\background 1.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\background 1.png
+    projectPath: Assets\Sprites\background 1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\background 1.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\background 1.png.meta
+    projectPath: Assets\Sprites\background 1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\background 2.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\background 2.png
+    projectPath: Assets\Sprites\background 2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\background 2.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\background 2.png.meta
+    projectPath: Assets\Sprites\background 2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\background.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\background.png
+    projectPath: Assets\Sprites\background.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\background.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\background.png.meta
+    projectPath: Assets\Sprites\background.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\captain beardseye.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\captain beardseye.png
+    projectPath: Assets\Sprites\captain beardseye.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\captain beardseye.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\captain beardseye.png.meta
+    projectPath: Assets\Sprites\captain beardseye.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\corner.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\corner.png
+    projectPath: Assets\Sprites\corner.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\corner.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\corner.png.meta
+    projectPath: Assets\Sprites\corner.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\cursor.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\cursor.png
+    projectPath: Assets\Sprites\cursor.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\cursor.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\cursor.png.meta
+    projectPath: Assets\Sprites\cursor.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\cursor.txt
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\cursor.txt
+    projectPath: Assets\Sprites\cursor.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\cursor.txt.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\cursor.txt.meta
+    projectPath: Assets\Sprites\cursor.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2.png
+    projectPath: Assets\Sprites\flood 2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2.png.meta
+    projectPath: Assets\Sprites\flood 2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2.prefab
+    projectPath: Assets\Sprites\flood 2.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2.prefab.meta
+    projectPath: Assets\Sprites\flood 2.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2_0.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2_0.controller
+    projectPath: Assets\Sprites\flood 2_0.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2_0.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2_0.controller.meta
+    projectPath: Assets\Sprites\flood 2_0.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2_1.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2_1.controller
+    projectPath: Assets\Sprites\flood 2_1.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood 2_1.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood 2_1.controller.meta
+    projectPath: Assets\Sprites\flood 2_1.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood.anim
+    projectPath: Assets\Sprites\flood.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\flood.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\flood.anim.meta
+    projectPath: Assets\Sprites\flood.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\getpreview.jpg
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\getpreview.jpg
+    projectPath: Assets\Sprites\getpreview.jpg
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\getpreview.jpg.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\getpreview.jpg.meta
+    projectPath: Assets\Sprites\getpreview.jpg.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\getpreview.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\getpreview.prefab
+    projectPath: Assets\Sprites\getpreview.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\getpreview.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\getpreview.prefab.meta
+    projectPath: Assets\Sprites\getpreview.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\heart_ui.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\heart_ui.png
+    projectPath: Assets\Sprites\heart_ui.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\heart_ui.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\heart_ui.png.meta
+    projectPath: Assets\Sprites\heart_ui.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\icon2.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\icon2.png
+    projectPath: Assets\Sprites\icon2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\icon2.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\icon2.png.meta
+    projectPath: Assets\Sprites\icon2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\inner corner 2.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\inner corner 2.png
+    projectPath: Assets\Sprites\inner corner 2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\inner corner 2.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\inner corner 2.png.meta
+    projectPath: Assets\Sprites\inner corner 2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\inner corner.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\inner corner.png
+    projectPath: Assets\Sprites\inner corner.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\inner corner.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\inner corner.png.meta
+    projectPath: Assets\Sprites\inner corner.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\large water sprite_0.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\large water sprite_0.controller
+    projectPath: Assets\Sprites\large water sprite_0.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\large water sprite_0.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\large water sprite_0.controller.meta
+    projectPath: Assets\Sprites\large water sprite_0.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\large water sprite_1.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\large water sprite_1.controller
+    projectPath: Assets\Sprites\large water sprite_1.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\large water sprite_1.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\large water sprite_1.controller.meta
+    projectPath: Assets\Sprites\large water sprite_1.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\large water.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\large water.anim
+    projectPath: Assets\Sprites\large water.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\large water.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\large water.anim.meta
+    projectPath: Assets\Sprites\large water.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\lifesaver.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\lifesaver.png
+    projectPath: Assets\Sprites\lifesaver.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\lifesaver.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\lifesaver.png.meta
+    projectPath: Assets\Sprites\lifesaver.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\lifesaver.txt
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\lifesaver.txt
+    projectPath: Assets\Sprites\lifesaver.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\lifesaver.txt.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\lifesaver.txt.meta
+    projectPath: Assets\Sprites\lifesaver.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\menu water.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\menu water.anim
+    projectPath: Assets\Sprites\menu water.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\menu water.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\menu water.anim.meta
+    projectPath: Assets\Sprites\menu water.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\new flood.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\new flood.anim
+    projectPath: Assets\Sprites\new flood.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\new flood.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\new flood.anim.meta
+    projectPath: Assets\Sprites\new flood.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\outter.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\outter.png
+    projectPath: Assets\Sprites\outter.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\outter.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\outter.png.meta
+    projectPath: Assets\Sprites\outter.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\plunger-disabled_ui.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\plunger-disabled_ui.png
+    projectPath: Assets\Sprites\plunger-disabled_ui.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\plunger-disabled_ui.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\plunger-disabled_ui.png.meta
+    projectPath: Assets\Sprites\plunger-disabled_ui.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\plunger_ui.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\plunger_ui.png
+    projectPath: Assets\Sprites\plunger_ui.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\plunger_ui.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\plunger_ui.png.meta
+    projectPath: Assets\Sprites\plunger_ui.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\porthole.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\porthole.png
+    projectPath: Assets\Sprites\porthole.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\porthole.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\porthole.png.meta
+    projectPath: Assets\Sprites\porthole.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\pump.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\pump.png
+    projectPath: Assets\Sprites\pump.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\pump.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\pump.png.meta
+    projectPath: Assets\Sprites\pump.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\shell botto.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\shell botto.png
+    projectPath: Assets\Sprites\shell botto.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\shell botto.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\shell botto.png.meta
+    projectPath: Assets\Sprites\shell botto.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\shell top.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\shell top.png
+    projectPath: Assets\Sprites\shell top.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\shell top.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\shell top.png.meta
+    projectPath: Assets\Sprites\shell top.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\side.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\side.png
+    projectPath: Assets\Sprites\side.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\side.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\side.png.meta
+    projectPath: Assets\Sprites\side.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\slider.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\slider.png
+    projectPath: Assets\Sprites\slider.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\slider.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\slider.png.meta
+    projectPath: Assets\Sprites\slider.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\slider.txt
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\slider.txt
+    projectPath: Assets\Sprites\slider.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\slider.txt.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\slider.txt.meta
+    projectPath: Assets\Sprites\slider.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 10.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 10.png
+    projectPath: Assets\Sprites\wall 10.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 10.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 10.png.meta
+    projectPath: Assets\Sprites\wall 10.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 5.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 5.png
+    projectPath: Assets\Sprites\wall 5.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 5.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 5.png.meta
+    projectPath: Assets\Sprites\wall 5.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 6.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 6.png
+    projectPath: Assets\Sprites\wall 6.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 6.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 6.png.meta
+    projectPath: Assets\Sprites\wall 6.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 7.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 7.png
+    projectPath: Assets\Sprites\wall 7.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 7.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 7.png.meta
+    projectPath: Assets\Sprites\wall 7.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 9.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 9.png
+    projectPath: Assets\Sprites\wall 9.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall 9.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall 9.png.meta
+    projectPath: Assets\Sprites\wall 9.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall again.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall again.png
+    projectPath: Assets\Sprites\wall again.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall again.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall again.png.meta
+    projectPath: Assets\Sprites\wall again.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall back.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall back.png
+    projectPath: Assets\Sprites\wall back.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall back.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall back.png.meta
+    projectPath: Assets\Sprites\wall back.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall.png
+    projectPath: Assets\Sprites\wall.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall.png.meta
+    projectPath: Assets\Sprites\wall.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall_1.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall_1.png
+    projectPath: Assets\Sprites\wall_1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\wall_1.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\wall_1.png.meta
+    projectPath: Assets\Sprites\wall_1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water menu.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water menu.controller
+    projectPath: Assets\Sprites\water menu.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water menu.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water menu.controller.meta
+    projectPath: Assets\Sprites\water menu.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water sceen.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water sceen.png
+    projectPath: Assets\Sprites\water sceen.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water sceen.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water sceen.png.meta
+    projectPath: Assets\Sprites\water sceen.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water sceen_0.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water sceen_0.controller
+    projectPath: Assets\Sprites\water sceen_0.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water sceen_0.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water sceen_0.controller.meta
+    projectPath: Assets\Sprites\water sceen_0.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water sceen_0.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water sceen_0.prefab
+    projectPath: Assets\Sprites\water sceen_0.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water sceen_0.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water sceen_0.prefab.meta
+    projectPath: Assets\Sprites\water sceen_0.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2.png
+    projectPath: Assets\Sprites\water2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2.png.meta
+    projectPath: Assets\Sprites\water2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2_0.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2_0.controller
+    projectPath: Assets\Sprites\water2_0.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2_0.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2_0.controller.meta
+    projectPath: Assets\Sprites\water2_0.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2_0.prefab
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2_0.prefab
+    projectPath: Assets\Sprites\water2_0.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2_0.prefab.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2_0.prefab.meta
+    projectPath: Assets\Sprites\water2_0.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2_1.controller
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2_1.controller
+    projectPath: Assets\Sprites\water2_1.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water2_1.controller.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water2_1.controller.meta
+    projectPath: Assets\Sprites\water2_1.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water_Back_Anim.anim
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water_Back_Anim.anim
+    projectPath: Assets\Sprites\water_Back_Anim.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\water_Back_Anim.anim.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\water_Back_Anim.anim.meta
+    projectPath: Assets\Sprites\water_Back_Anim.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\window.png
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\window.png
+    projectPath: Assets\Sprites\window.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\window.png.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\Sprites\window.png.meta
+    projectPath: Assets\Sprites\window.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\leaderBoard.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\leaderBoard.meta
+    projectPath: Assets\leaderBoard.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\leaderBoard\leaderboard.json
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\leaderBoard\leaderboard.json
+    projectPath: Assets\leaderBoard\leaderboard.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\leaderBoard\leaderboard.json.meta
+    fullPath: F:\Unity\Projects\BeardsEye\Assets\leaderBoard\leaderboard.json.meta
+    projectPath: Assets\leaderBoard\leaderboard.json.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\Assembly-CSharp.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\Assembly-CSharp.dll
+    projectPath: BeardsEye_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\Mono.Security.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\Mono.Security.dll
+    projectPath: BeardsEye_Data\Managed\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\System.Core.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\System.Core.dll
+    projectPath: BeardsEye_Data\Managed\System.Core.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\System.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\System.dll
+    projectPath: BeardsEye_Data\Managed\System.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AIModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AIModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AIModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ARModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ARModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ARModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AccessibilityModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AccessibilityModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AccessibilityModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AnimationModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AnimationModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AnimationModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AssetBundleModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AssetBundleModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AssetBundleModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.AudioModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.AudioModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.AudioModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ClothModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ClothModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ClothModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ClusterInputModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ClusterInputModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ClusterInputModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ClusterRendererModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.CoreModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.CoreModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.CoreModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.CrashReportingModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.CrashReportingModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.CrashReportingModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.DirectorModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.DirectorModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.DirectorModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.GameCenterModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.GameCenterModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.GameCenterModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.GridModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.GridModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.GridModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.IMGUIModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.IMGUIModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.IMGUIModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ImageConversionModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ImageConversionModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ImageConversionModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.InputModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.InputModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.InputModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.JSONSerializeModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.Networking.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.Networking.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ParticleSystemModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.Physics2DModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.Physics2DModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.Physics2DModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.PhysicsModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.PhysicsModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.PhysicsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.SharedInternalsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.SpriteMaskModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.SpriteShapeModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.StandardEvents.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.StandardEvents.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.StandardEvents.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.StyleSheetsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TerrainModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TerrainModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TerrainModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TextRenderingModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TextRenderingModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TextRenderingModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.TilemapModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.TilemapModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.TilemapModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.Timeline.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.Timeline.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UI.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UI.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UIElementsModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UIElementsModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UIElementsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UIModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UIModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UIModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UNETModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UNETModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UNETModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityConnectModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityConnectModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityConnectModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.VRModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.VRModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.VRModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.VehiclesModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.VehiclesModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.VehiclesModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.VideoModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.VideoModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.VideoModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.WebModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.WebModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.WebModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.WebModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.WebModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.WebModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.WindModule.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.WindModule.xml
+    projectPath: BeardsEye_Data\Managed\UnityEngine.WindModule.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\UnityEngine.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\UnityEngine.dll
+    projectPath: BeardsEye_Data\Managed\UnityEngine.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Managed\mscorlib.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Managed\mscorlib.dll
+    projectPath: BeardsEye_Data\Managed\mscorlib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: BeardsEye_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\EmbedRuntime\mono.dll
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\EmbedRuntime\mono.dll
+    projectPath: BeardsEye_Data\Mono\EmbedRuntime\mono.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: BeardsEye_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\1.0\machine.config
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\1.0\machine.config
+    projectPath: BeardsEye_Data\Mono\etc\mono\1.0\machine.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: BeardsEye_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: BeardsEye_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\2.0\machine.config
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\2.0\machine.config
+    projectPath: BeardsEye_Data\Mono\etc\mono\2.0\machine.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\2.0\settings.map
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\2.0\settings.map
+    projectPath: BeardsEye_Data\Mono\etc\mono\2.0\settings.map
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\2.0\web.config
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\2.0\web.config
+    projectPath: BeardsEye_Data\Mono\etc\mono\2.0\web.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\browscap.ini
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\browscap.ini
+    projectPath: BeardsEye_Data\Mono\etc\mono\browscap.ini
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\config
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\config
+    projectPath: BeardsEye_Data\Mono\etc\mono\config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Mono\etc\mono\mconfig\config.xml
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Mono\etc\mono\mconfig\config.xml
+    projectPath: BeardsEye_Data\Mono\etc\mono\mconfig\config.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Resources\unity default resources
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Resources\unity default resources
+    projectPath: BeardsEye_Data\Resources\unity default resources
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\Resources\unity_builtin_extra
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\Resources\unity_builtin_extra
+    projectPath: BeardsEye_Data\Resources\unity_builtin_extra
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\ScreenSelector.bmp
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\ScreenSelector.bmp
+    projectPath: BeardsEye_Data\ScreenSelector.bmp
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\app.info
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\app.info
+    projectPath: BeardsEye_Data\app.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\boot.config
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\boot.config
+    projectPath: BeardsEye_Data\boot.config
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\globalgamemanagers
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\globalgamemanagers
+    projectPath: BeardsEye_Data\globalgamemanagers
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\globalgamemanagers.assets
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\globalgamemanagers.assets
+    projectPath: BeardsEye_Data\globalgamemanagers.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\globalgamemanagers.assets.resS
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\globalgamemanagers.assets.resS
+    projectPath: BeardsEye_Data\globalgamemanagers.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\level0
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\level0
+    projectPath: BeardsEye_Data\level0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\level1
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\level1
+    projectPath: BeardsEye_Data\level1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\level2
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\level2
+    projectPath: BeardsEye_Data\level2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\level3
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\level3
+    projectPath: BeardsEye_Data\level3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets0.assets
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets0.assets
+    projectPath: BeardsEye_Data\sharedassets0.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets0.assets.resS
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets0.assets.resS
+    projectPath: BeardsEye_Data\sharedassets0.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets0.resource
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets0.resource
+    projectPath: BeardsEye_Data\sharedassets0.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets1.assets
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets1.assets
+    projectPath: BeardsEye_Data\sharedassets1.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets1.assets.resS
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets1.assets.resS
+    projectPath: BeardsEye_Data\sharedassets1.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets1.resource
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets1.resource
+    projectPath: BeardsEye_Data\sharedassets1.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets2.assets
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets2.assets
+    projectPath: BeardsEye_Data\sharedassets2.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets3.assets
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets3.assets
+    projectPath: BeardsEye_Data\sharedassets3.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: BeardsEye_Data\sharedassets3.assets.resS
+    fullPath: F:\Unity\Projects\BeardsEye\BeardsEye_Data\sharedassets3.assets.resS
+    projectPath: BeardsEye_Data\sharedassets3.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: UpgradeLog.htm
+    fullPath: F:\Unity\Projects\BeardsEye\UpgradeLog.htm
+    projectPath: UpgradeLog.htm
+    originalPath: 
+    status: 1
+    staged: 0

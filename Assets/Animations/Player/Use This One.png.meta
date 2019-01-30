@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 7b6dfcd392b75db499eb6a510bc8cc45
+timeCreated: 1522146109
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Use This One_0
+    21300002: Use This One_1
+    21300004: Use This One_2
+    21300006: Use This One_3
+    21300008: Use This One_4
+    21300010: Use This One_5
+    21300012: Use This One_6
+    21300014: Use This One_7
+    21300016: Use This One_8
+    21300018: Use This One_9
+    21300020: Use This One_10
+    21300022: Use This One_11
+    21300024: Use This One_12
+    21300026: Use This One_13
+    21300028: Use This One_14
+    21300030: Use This One_15
+    21300032: Use This One_16
+    21300034: Use This One_17
+    21300036: Use This One_18
+    21300038: Use This One_19
+    21300040: Use This One_20
+    21300042: Use This One_21
+    21300044: Use This One_22
+    21300046: Use This One_23
+    21300048: Use This One_24
+    21300050: Use This One_25
+    21300052: Use This One_26
+    21300054: Use This One_27
+    21300056: Use This One_28
+    21300058: Use This One_29
+    21300060: Use This One_30
+    21300062: Use This One_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Use This One_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 216
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 148
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 80
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Use This One_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 12
+        width: 70
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
